@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+venv/
+.idea
+.idea/vcs.xml
+
+secrets_keys.txt
+
